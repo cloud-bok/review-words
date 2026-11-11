@@ -1,0 +1,19 @@
+{
+  "wordTags": "#word",
+  "cardSyntax": [
+    "??"
+  ],
+  "accent": "uk",
+  "dailyNew": 20,
+  "dailyReview": 30,
+  "type": "listen",
+  "reviewMode": "new",
+  "review": {
+    "baseEase": 250,
+    "easyBonus": 1.3,
+    "lapsesIntervalChange": 0.5,
+    "maximumInterval": 36525
+  },
+  "autoNextMs": 1500,
+  "lastTag": "word/6A/期中听写"
+}

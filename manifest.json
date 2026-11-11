@@ -1,0 +1,9 @@
+{
+  "id": "review-words",
+  "name": "Review Words",
+  "version": "0.5.0",
+  "minAppVersion": "1.5.0",
+  "description": "课文里的单词卡片块就地复习：百词斩式五题型，排期存在块末的 <!--RW:…--> 注释里，不依赖其它插件",
+  "author": "cloudpmy",
+  "isDesktopOnly": false
+}
